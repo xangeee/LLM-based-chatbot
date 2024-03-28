@@ -32,6 +32,5 @@ $ ./run_back.sh
 $ ./run_front.sh
 ```
 ## Illustrations
-![alt text](https://github.com/xangeee/LLM-based-chatbot/blob/main/frontend/img/example.png?raw=true)
-<img src="https://github.com/xangeee/LLM-based-chatbot/blob/main/frontend/img/example.png?raw=true" width="50">
+<img src="https://github.com/xangeee/LLM-based-chatbot/blob/main/frontend/img/example.png?raw=true" width="200">
 
