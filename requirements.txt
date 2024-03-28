@@ -1,6 +1,6 @@
-streamlit
-datasets
-python-dotenv
+streamlit==1.32.2
+datasets==2.18.0
+python-dotenv==1.0.1
 langchain==0.1.0
 openai==1.7.2
 langchain-openai==0.0.2
