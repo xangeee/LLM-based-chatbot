@@ -20,5 +20,3 @@ To run the project, run the following commands:
 $ ./run_back.sh
 $ ./run_front.sh
 ```
-## Illustrations
-<img src="https://github.com/xangeee/LLM-based-chatbot/blob/main/frontend/img/example.png" width=50% height=50%>
